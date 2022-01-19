@@ -1,0 +1,650 @@
+1,Harvard University,Private,www.harvard.edu
+2,Stanford University,Private,www.stanford.edu
+3,Yale University,Private,www.yale.edu
+4,Massachusetts Institute of Technology,Private,web.mit.edu
+5,Princeton University,Private,www.princeton.edu
+6,University of Pennsylvania,Private,www.upenn.edu
+7,Brown University,Private,www.brown.edu
+8,California Institute of Technology,Private,www.caltech.edu
+9,Duke University,Private,www.duke.edu
+10,Dartmouth College,Private,www.dartmouth.edu
+11,Cornell University,Private,www.cornell.edu
+12,Pomona College,Private,www.pomona.edu
+13,University of California Berkeley,Public,www.berkeley.edu
+14,Columbia University,Private,www.columbia.edu
+15,Georgetown University,Private,www.georgetown.edu
+16,University of Chicago,Private,www.uchicago.edu
+17,Northwestern University,Private,www.northwestern.edu
+18,University of Notre Dame,Private,www.nd.edu
+19,Williams College,Private,www.williams.edu
+20,University of Michigan Ann Arbor,Public,www.umich.edu
+21,Rice University,Private,www.rice.edu
+22,Johns Hopkins University,Private,www.jhu.edu
+23,Harvey Mudd College,Private,www.hmc.edu
+24,United States Naval Academy,Public,www.usna.edu
+25,Swarthmore College,Private,www.swarthmore.edu
+26,Bowdoin College,Private,www.bowdoin.edu
+27,Vanderbilt University,Private,www.vanderbilt.edu
+28,Amherst College,Private,https://www.amherst.edu
+29,Claremont McKenna College,Private,www.claremontmckenna.edu
+30,University of Southern California,Private,www.usc.edu
+31,Washington University in St. Louis,Private,www.wustl.edu
+32,United States Military Academy,Public,www.usma.edu
+33,University of Virginia,Public,www.virginia.edu
+34,Tufts University,Private,www.tufts.edu
+35,New York University,Private,www.nyu.edu
+36,Middlebury College,Private,www.middlebury.edu
+37,Carnegie Mellon University,Private,www.cmu.edu
+38,University of California Los Angeles,Public,ucla.edu
+39,Bates College,Private,bates.edu
+40,Wesleyan University,Private,www.wesleyan.edu
+41,Boston College,Private,www.bc.edu
+42,Washington and Lee University,Private,www.wlu.edu
+43,United States Air Force Academy,Public,www.usafa.af.mil
+44,Wellesley College,Private,www.wellesley.edu
+45,University of North Carolina Chapel Hill,Public,www.unc.edu
+46,Colgate University,Private,www.colgate.edu
+47,College of William & Mary,Public,www.wm.edu
+48,Davidson College,Private,www.davidson.edu
+49,Haverford College,Private,www.haverford.edu
+50,Barnard College,Private,barnard.edu
+51,Santa Clara University,Private,www.scu.edu
+52,Carleton College,Private,www.carleton.edu
+53,United States Coast Guard Academy,Public,www.uscga.edu
+54,Pitzer College,Private,www.pitzer.edu
+55,Emory University,Private,www.emory.edu
+56,Wake Forest University,Private,www.wfu.edu
+57,Lafayette College,Private,www.lafayette.edu
+58,Cooper Union,Private,cooper.edu
+59,Hamilton College,Private,www.hamilton.edu/index.cfm
+60,Scripps College,Private,www.scrippscollege.edu
+61,Vassar College,Private,www.vassar.edu
+62,Babson College,Private,www.babson.edu
+63,University of Maryland College Park,Public,www.umd.edu
+64,University of Washington Seattle,Public,uw.edu
+65,Georgia Institute of Technology,Public,www.gatech.edu
+66,United States Merchant Marine Academy,Public,www.usmma.edu
+67,Lehigh University,Private,www4.lehigh.edu/default.aspx
+68,University of Illinois Urbana-Champaign,Public,illinois.edu
+69,University of Wisconsin Madison,Public,www.wisc.edu
+70,University of Florida,Public,www.ufl.edu
+71,Kenyon College,Private,www.kenyon.edu/index.xml
+72,Villanova University,Private,www.villanova.edu
+73,Bucknell University,Private,www.bucknell.edu
+74,Boston University,Private,www.bu.edu
+75,Colby College,Private,www.colby.edu
+76,University of Texas Austin,Public,www.utexas.edu
+77,College of the Holy Cross,Private,www.holycross.edu
+78,George Washington University,Private,www.gwu.edu
+79,University of California San Diego,Public,www.ucsd.edu
+80,Grinnell College,Private,www.grinnell.edu
+81,Smith College,Private,www.smith.edu
+82,University of Rochester,Private,www.rochester.edu
+83,University of Richmond,Private,www.richmond.edu
+84,University of California Santa Barbara,Public,www.ucsb.edu
+85,Oberlin College,Private,www.oberlin.edu
+86,Macalester College,Private,www.macalester.edu
+87,University of California Irvine,Public,www.uci.edu
+88,University of California Davis,Public,www.ucdavis.edu
+89,Whitman College,Private,www.whitman.edu
+90,University of Miami (FL),Private,www.miami.edu
+91,Southern Methodist University,Private,www.smu.edu
+92,Colorado College,Private,www.coloradocollege.edu
+93,Worcester Polytechnic Institute,Private,www.wpi.edu
+94,Colorado School of Mines,Public,www.mines.edu
+95,Brigham Young University,Private,www.byu.edu
+96,Brandeis University,Private,www.brandeis.edu
+97,Yeshiva University,Private,www.yu.edu
+98,University of Minnesota Twin Cities,Public,www.umn.edu
+99,University of Georgia,Public,www.uga.edu
+100,Case Western Reserve University,Private,www.case.edu
+101,Skidmore College,Private,www.skidmore.edu
+102,Occidental College,Private,www.oxy.edu
+103,Texas A&M University College Station,Public,www.tamu.edu
+104,Union College (NY),Private,www.union.edu
+105,Reed College,Private,www.reed.edu
+106,Tulane University,Private,www.tulane.edu
+107,Bentley University,Private,www.bentley.edu
+108,Virginia Tech,Public,vt.edu
+109,Trinity College (CT),Private,www.trincoll.edu/Pages/default.aspx
+110,Rose-Hulman Institute of Technology,Private,www.rose-hulman.edu
+111,Bryn Mawr College,Private,www.brynmawr.edu
+112,Rhode Island School of Design,Private,www.risd.edu
+113,Rensselaer Polytechnic Institute,Private,www.rpi.edu
+114,Franklin and Marshall College,Private,fandm.edu
+115,California Polytechnic State University San Luis Obispo,Public,calpoly.edu
+116,St. Olaf College,Private,wp.stolaf.edu
+117,Pennsylvania State University,Public,www.psu.edu
+118,Purdue University,Public,www.purdue.edu
+119,The Juilliard School,Private,
+120,Dickinson College,Private,www.dickinson.edu
+121,Ohio State University,Public,www.osu.edu
+122,Wheaton College (IL),Private,www.wheaton.edu
+123,Rutgers University,Public,www.rutgers.edu
+124,Loyola Marymount University,Private,www.lmu.edu
+125,University of Portland,Private,www.up.edu
+126,American University,Private,www.american.edu
+127,Furman University,Private,www2.furman.edu/Pages/default.aspx
+128,Connecticut College,Private,www.conncoll.edu
+129,Pepperdine University,Private,www.pepperdine.edu
+130,University of Connecticut,Public,uconn.edu
+131,Indiana University Bloomington,Public,www.indiana.edu
+132,DePauw University,Private,www.depauw.edu
+133,Elon University,Private,www.elon.edu
+134,Clemson University,Public,www.clemson.edu
+135,Fairfield University,Private,www.fairfield.edu
+136,James Madison University,Public,www.jmu.edu
+137,Mount Holyoke College,Private,https://www.mtholyoke.edu
+138,Gettysburg College,Private,www.gettysburg.edu
+139,North Carolina State University Raleigh,Public,www.ncsu.edu
+140,University of Denver,Private,www.du.edu
+141,Fordham University,Private,www.fordham.edu
+142,University of San Diego,Private,www.sandiego.edu
+143,Trinity University (TX),Private,web.trinity.edu
+144,University of Pittsburgh,Public,www.pitt.edu
+145,Binghamton University SUNY,Public,www.binghamton.edu
+146,University of Colorado Boulder,Public,www.colorado.edu
+147,University of Delaware,Public,www.udel.edu
+148,Texas Christian University,Private,www.tcu.edu
+149,College of New Jersey,Public,tcnj.edu
+150,Rhodes College,Private,www.rhodes.edu
+151,Florida State University,Public,www.fsu.edu
+152,Stevens Institute of Technology,Private,www.stevens.edu/sit
+153,Denison University,Private,denison.edu
+154,Sewanee University of the South,Private,www.sewanee.edu
+155,University of Massachusetts Amherst,Public,www.umass.edu
+156,Syracuse University,Private,syracuse.edu
+157,Sarah Lawrence College,Private,www.slc.edu
+158,St. Lawrence University,Private,www.stlawu.edu
+159,Michigan State University,Public,www.msu.edu
+160,University of Iowa,Public,www.uiowa.edu
+161,Saint Louis University,Private,www.slu.edu
+162,Seattle University,Private,www.seattleu.edu/default.aspx
+163,Manhattan School of Music,Private,
+164,Kalamazoo College,Private,www.kzoo.edu
+165,University of Dayton,Private,www.udayton.edu
+166,Auburn University,Public,www.auburn.edu
+167,Saint Joseph's University (PA),Private,www.sju.edu
+168,University of Vermont,Public,www.uvm.edu
+169,Samford University,Private,www.samford.edu
+170,Gonzaga University,Private,www.gonzaga.edu
+171,Wofford College,Private,www.wofford.edu
+172,Providence College,Private,www.providence.edu/Pages/default.aspx
+173,University of Puget Sound,Private,www.pugetsound.edu
+174,CUNY Baruch College,Public,www.baruch.cuny.edu
+175,Loyola University Maryland,Private,www.loyola.edu
+176,SUNY Stony Brook (Stony Brook University),Public,www.stonybrook.edu
+177,George Mason University,Public,www.gmu.edu
+178,Chapman University,Private,www.chapman.edu
+179,Muhlenberg College,Private,www.muhlenberg.edu
+180,Marquette University,Private,www.marquette.edu
+181,San Diego State University,Public,www.sdsu.edu
+182,Northeastern University,Private,www.northeastern.edu
+183,University of California Santa Cruz,Public,www.ucsc.edu
+184,Lewis & Clark College,Private,www.lclark.edu
+185,Miami University (OH),Public,miamioh.edu
+186,Arizona State University Tempe,Public,www.asu.edu
+187,University of Utah,Public,www.utah.edu
+188,University of Oklahoma Norman,Public,www.ou.edu
+189,Marist College,Private,www.marist.edu
+190,Hobart and William Smith Colleges,Private,www.hws.edu
+191,University of Oregon,Public,www.uoregon.edu
+192,Drake University,Private,www.drake.edu
+193,Lawrence University,Private,www.lawrence.edu
+194,Creighton University,Private,www.creighton.edu
+195,Hillsdale College,Private,www.hillsdale.edu
+196,University at Buffalo (SUNY),Public,www.buffalo.edu
+197,University of Tulsa,Private,www.utulsa.edu
+198,University of Saint Thomas (MN),Private,www.stthomas.edu
+199,University of California Riverside,Public,ucr.edu
+200,Manhattan College,Private,www.manhattan.edu
+201,University of South Carolina,Public,www.sc.edu
+202,Baylor University,Private,www.baylor.edu
+203,Bryant University,Private,www.bryant.edu
+204,University of Mary Washington,Public,www.umw.edu
+205,Virginia Military Institute,Public,www.vmi.edu
+206,Clark University (MA),Private,www.clarku.edu
+207,Clarkson University,Private,www.clarkson.edu
+208,Illinois Institute of Technology,Private,www.iit.edu
+209,Centre College,Private,www.centre.edu
+210,University of San Francisco,Private,www.usfca.edu
+211,Iowa State University,Public,www.iastate.edu
+212,Louisiana State University,Public,www.lsu.edu
+213,Willamette University,Private,www.willamette.edu
+214,Gustavus Adolphus College,Private,https://gustavus.edu
+215,Quinnipiac University,Private,www.quinnipiac.edu
+216,Butler University,Private,www.butler.edu
+217,SUNY College of Environmental Science and Forestry,Public,www.esf.edu
+218,University of Arizona,Public,www.arizona.edu
+219,University of Missouri Columbia,Public,www.missouri.edu
+220,The Citadel,Public,www.citadel.edu/root
+221,University of Washington Bothell,Public,https://www.uwb.edu
+222,Emerson College,Private,www.emerson.edu
+223,Colorado State University Fort Collins,Public,www.colostate.edu
+224,University of Tennessee Knoxville,Public,www.utk.edu
+225,Taylor University,Private,www.taylor.edu
+226,Drexel University,Private,www.drexel.edu
+227,Stonehill College,Private,www.stonehill.edu
+228,University of South Florida,Public,www.usf.edu
+229,St. Mary's College of Maryland,Public,www.smcm.edu
+230,Bard College,Private,www.bard.edu
+231,Washington State University,Public,www.wsu.edu
+232,Truman State University,Public,www.truman.edu
+233,Illinois Wesleyan University,Private,www.iwu.edu
+234,St. John's College Annapolis,Private,stjohnscollege.edu
+235,SUNY Geneseo,Public,geneseo.edu
+236,Westmont College,Private,www.westmont.edu
+237,Cedarville University,Private,www.cedarville.edu
+238,University of the Pacific (CA),Private,www.pacific.edu
+239,University of Nebraska Lincoln,Public,www.unl.edu
+240,University of Texas Dallas,Public,www.utdallas.edu
+241,Rollins College,Private,www.rollins.edu
+242,University of Central Florida,Public,www.ucf.edu
+243,Ithaca College,Private,www.ithaca.edu
+244,DePaul University,Private,www.depaul.edu/Pages/default.aspx
+245,Missouri University of Science and Technology,Public,www.mst.edu
+246,University of New Hampshire,Public,www.unh.edu
+247,Hope College,Private,hope.edu
+248,Loyola University Chicago,Private,www.luc.edu
+249,Seton Hall University,Private,www.shu.edu
+250,College of Wooster,Private,wooster.edu
+251,University of Scranton,Private,www.scranton.edu
+252,University of Alabama,Public,www.ua.edu
+253,College of Saint Benedict,Private,www.csbsju.edu
+254,Saint John's University (MN),Private,www.csbsju.edu/About/Saint-Johns-University.htm
+255,California Lutheran University,Private,www.callutheran.edu
+256,Embry-Riddle Aeronautical University Prescott,Private,www.prescott.erau.edu
+257,Beloit College,Private,www.beloit.edu
+258,Western Washington University,Public,www.wwu.edu
+259,Rockhurst University,Private,www.rockhurst.edu
+260,University of Kansas,Public,www.ku.edu
+261,Oregon State University,Public,oregonstate.edu
+262,University of Maryland Baltimore,Public,https://www.umbc.edu
+263,Point Loma Nazarene University,Private,https://www.pointloma.edu
+264,Wheaton College (MA),Private,wheatoncollege.edu
+265,New School,Private,www.newschool.edu
+266,Calvin University,Private,https://www.calvin.edu
+267,Christopher Newport University,Public,cnu.edu
+268,New Jersey Institute of Technology,Public,www.njit.edu
+269,Juniata College,Private,www.juniata.edu
+270,College of the Ozarks,Private,www.cofo.edu
+271,University of Arkansas,Public,www.uark.edu
+272,California State University Long Beach,Public,www.csulb.edu
+273,California State Polytechnic University Pomona,Public,www.csupomona.edu
+274,CUNY Queens College,Public,www.qc.cuny.edu/Pages/home.aspx
+275,University of Redlands,Private,www.redlands.edu
+276,Michigan Technological University,Public,www.mtu.edu
+277,New College of Florida,Public,www.ncf.edu
+278,University of Dallas,Private,www.udallas.edu
+279,University of Illinois Chicago,Public,www.uic.edu/uic
+280,Wabash College,Private,www.wabash.edu
+281,Washington College,Private,www.washcoll.edu
+282,Saint Michael's College,Private,www.smcvt.edu
+283,The Catholic University of America,Private,www.cua.edu
+284,Massachusetts Maritime Academy,Public,https://www.maritime.edu
+285,Siena College,Private,www.siena.edu/pages/1.asp
+286,Bennington College,Private,www.bennington.edu/Home.aspx
+287,John Carroll University,Private,sites.jcu.edu
+288,Saint Mary's College (IN),Private,https://www.saintmarys.edu
+289,Seattle Pacific University,Private,www.spu.edu
+290,University at Albany SUNY,Public,www.albany.edu
+291,Messiah College,Private,www.messiah.edu
+292,Hofstra University,Private,hofstra.edu
+293,Biola University,Private,www.biola.edu
+294,Duquesne University,Private,www.duq.edu
+295,San Jose State University,Public,www.sjsu.edu
+296,Ursinus College,Private,www.ursinus.edu
+297,Saint Mary's College of California,Private,www.stmarys-ca.edu
+298,Regis University,Private,www.regis.edu
+299,Temple University,Public,www.temple.edu
+300,California State University Fullerton,Public,www.fullerton.edu
+301,CUNY Hunter College,Public,www.hunter.cuny.edu/main
+302,Ohio Northern University,Private,www.onu.edu
+303,Maryland Institute College of Art,Private,
+304,Bradley University,Private,www.bradley.edu
+305,Appalachian State University,Public,www.appstate.edu
+306,University of Houston,Public,www.uh.edu
+307,Transylvania University,Private,https://www.transy.edu
+308,University of Kentucky,Public,www.uky.edu
+309,California State University Maritime Academy,Public,https://www.csum.edu/web/mycampus/home;jsessionid=788be41b906ebd9485432c0ba641d830
+310,Presbyterian College,Private,www.presby.edu
+311,Texas Tech University,Public,www.texastech.edu
+312,Embry-Riddle Aeronautical University Daytona Beach,Private,daytonabeach.erau.edu
+313,University of Cincinnati,Public,www.uc.edu
+314,Hampden-Sydney College,Private,www.hsc.edu
+315,Southwestern University,Private,www.southwestern.edu
+316,Whitworth University,Private,www.whitworth.edu
+317,Franciscan University of Steubenville,Private,www.franciscan.edu
+318,Belmont University,Private,www.belmont.edu
+319,Saint Anselm College,Private,www.anselm.edu
+320,Towson University,Public,www.towson.edu
+321,University of Evansville,Private,www.evansville.edu
+322,Earlham College,Private,earlham.edu
+323,College of Charleston,Public,www.cofc.edu
+324,Dordt University,Private,www.dordt.edu
+325,Xavier University,Private,www.xavier.edu
+326,Milwaukee School of Engineering,Private,www.msoe.edu/home
+327,Pacific Lutheran University,Private,www.plu.edu
+328,Pratt Institute,Private,https://www.pratt.edu
+329,Kettering University,Private,https://www.kettering.edu
+330,St. Joseph's College (NY),Private,www.sjcny.edu
+331,Knox College,Private,www.knox.edu
+332,Master's University,Private,www.masters.edu
+333,SUNY Maritime College,Public,www.sunymaritime.edu
+334,University of Wisconsin La Crosse,Public,www.uwlax.edu
+335,California State University Chico,Public,www.csuchico.edu
+336,University of North Carolina Wilmington,Public,uncw.edu
+337,Rochester Institute of Technology,Private,www.rit.edu
+338,Wagner College,Private,wagner.edu
+339,Hendrix College,Private,www.hendrix.edu
+340,Illinois State University,Public,www.illinoisstate.edu
+341,Ramapo College of New Jersey,Public,https://www.ramapo.edu
+342,Westminster College (UT),Private,https://www.westminstercollege.edu
+343,Mills College,Private,www.mills.edu
+344,Luther College,Private,www.luther.edu
+345,Virginia Commonwealth University,Public,www.vcu.edu
+346,St. Norbert College,Private,www.snc.edu
+347,University of Wyoming,Public,www.uwyo.edu
+348,Austin College,Private,www.austincollege.edu
+349,University of Nevada Reno,Public,www.unr.edu
+350,Simmons College,Private,www.simmons.edu
+351,Allegheny College,Private,allegheny.edu
+352,Bethel University,Private,www.bethel.edu
+353,Adelphi University,Private,www.adelphi.edu
+354,SUNY College at New Paltz,Public,www.newpaltz.edu
+355,Wentworth Institute of Technology,Private,https://wit.edu
+356,Drew University,Private,www.drew.edu
+357,Gordon College,Private,www.gordon.edu
+358,Oklahoma State University,Public,okstate.edu
+359,Millsaps College,Private,www.millsaps.edu
+360,Georgia College; State University,Public,www.gcsu.edu
+361,Rowan University,Public,www.rowan.edu
+362,CUNY Brooklyn College,Public,www.brooklyn.cuny.edu
+363,John Brown University,Private,www.jbu.edu
+364,Florida International University,Public,www.fiu.edu
+365,Salisbury University,Public,www.salisbury.edu
+366,Kansas State University,Public,www.k-state.edu
+367,Concordia College Moorhead,Private,www.concordiacollege.edu
+368,University of Wisconsin Eau Claire,Public,www.uwec.edu
+369,North Dakota State University,Public,www.ndsu.edu
+370,Sacred Heart University,Private,https://www.sacredheart.edu
+371,Hanover College,Private,www.hanover.edu
+372,Florida Institute of Technology,Private,www.fit.edu
+373,Hampshire College,Private,www.hampshire.edu
+374,Saint John Fisher College,Private,www.sjfc.edu
+375,University of Minnesota Morris,Public,www.morris.umn.edu
+376,Roger Williams University,Private,rwu.edu
+377,La Salle University,Private,www.lasalle.edu
+378,Lebanon Valley College,Private,www.lvc.edu
+379,Assumption College,Private,https://www.assumption.edu
+380,Merrimack College,Private,www.merrimack.edu/index.php
+381,Grove City College,Private,www.gcc.edu
+382,University of St. Thomas (TX),Private,https://www.stthom.edu/home/index.aqf
+383,Le Moyne College,Private,www.lemoyne.edu
+384,St. Edward's University,Private,www.stedwards.edu/contactus
+385,University of Hawaii Manoa,Public,manoa.hawaii.edu
+386,Augustana College,Private,augustana.edu
+387,Covenant College,Private,www.covenant.edu
+388,Howard University,Private,www.howard.edu
+389,Union University (TN),Private,www.uu.edu
+390,Iona College,Private,www.iona.edu
+391,Lipscomb University,Private,https://www.lipscomb.edu
+392,Carroll College,Private,www.carroll.edu
+393,Berry College,Private,www.berry.edu
+394,Elizabethtown College,Private,www.etown.edu
+395,College of St. Scholastica,Private,css.edu
+396,Augustana University,Private,www.augie.edu
+397,Louisiana Tech University,Public,www.latech.edu
+398,George Fox University,Private,www.georgefox.edu
+399,University of North Dakota,Public,und.edu
+400,Pace University,Private,www.pace.edu
+401,University of Mississippi,Public,www.olemiss.edu
+402,California Institute of the Arts,Private,
+403,Linfield College,Private,www.linfield.edu
+404,Berklee College of Music,Private,
+405,University of Northern Iowa,Public,www.uni.edu
+406,New Mexico Institute of Mining and Technology,Public,www.nmt.edu
+407,St. John's University (NY),Private,www.stjohns.edu/contact.stj
+408,University of Massachusetts Lowell,Public,www.uml.edu
+409,South Dakota School of Mines and Technology,Public,https://www.sdsmt.edu
+410,Goucher College,Private,www.goucher.edu
+411,CUNY The City College of New York,Public,www.ccny.cuny.edu
+412,Nebraska Wesleyan University,Private,www.nebrwesleyan.edu
+413,Brigham Young University-Idaho,Private,www.byui.edu
+414,Valparaiso University,Private,www.valpo.edu
+415,Lake Forest College,Private,www.lakeforest.edu
+416,Azusa Pacific University,Private,www.apu.edu
+417,California State University Fresno,Public,www.fresnostate.edu
+418,West Chester University of Pennsylvania,Public,www.wcupa.edu
+419,Goshen College,Private,www.goshen.edu
+420,Agnes Scott College,Private,www.agnesscott.edu
+421,Maryville University of Saint Louis,Private,www.maryville.edu
+422,Montclair State University,Public,www.montclair.edu
+423,Oregon Institute of Technology,Public,www.oit.edu
+424,Albion College,Private,www.albion.edu
+425,University of North Florida,Public,www.unf.edu
+426,San Francisco State University,Public,www.sfsu.edu
+427,Montana State University,Public,www.montana.edu
+428,High Point University,Private,www.highpoint.edu
+429,Whittier College,Private,www.whittier.edu
+430,Eckerd College,Private,www.eckerd.edu
+431,University of Louisville,Public,louisville.edu
+432,Mississippi State University,Public,www.msstate.edu
+433,University of Tampa,Private,www.ut.edu
+434,California State University Stanislaus,Public,www.csustan.edu
+435,University of Idaho,Public,www.uidaho.edu
+436,Cornell College (IA),Private,www.cornellcollege.edu/index.shtml
+437,Washington & Jefferson College,Private,www.washjeff.edu
+438,Ohio University,Public,www.ohio.edu
+439,Stetson University,Private,www.stetson.edu/home
+440,Moravian College,Private,www.moravian.edu
+441,Abilene Christian University,Private,www.acu.edu
+442,University of Minnesota Duluth,Public,www.d.umn.edu
+443,Stockton University,Public,www.stockton.edu
+444,University of Rhode Island,Public,www.uri.edu
+445,Utah State University,Public,www.usu.edu
+446,Saint Mary's University of Minnesota,Private,www.smumn.edu
+447,McDaniel College,Private,https://www.mcdaniel.edu
+448,North Central College,Private,northcentralcollege.edu/home
+449,Bellarmine University,Private,www.bellarmine.edu
+450,SUNY College at Oneonta,Public,www.oneonta.edu/home/default.asp
+451,SUNY Farmingdale State College,Public,www.farmingdale.edu
+452,University of New England,Private,www.une.edu
+453,Susquehanna University,Private,www.susqu.edu
+454,West Virginia University,Public,www.wvu.edu
+455,University of La Verne,Private,laverne.edu
+456,University of Alabama Birmingham,Public,www.uab.edu
+457,Sonoma State University,Public,www.sonoma.edu
+458,Canisius College,Private,www.canisius.edu
+459,Houghton College,Private,www.houghton.edu
+460,Hamline University,Private,www.hamline.edu
+461,Ouachita Baptist University,Private,www.obu.edu
+462,Ohio Wesleyan University,Private,www.owu.edu
+463,Birmingham-Southern College,Private,www.bsc.edu
+464,Berea College,Private,www.berea.edu
+465,Roanoke College,Private,roanoke.edu
+466,University of Colorado Denver,Public,www.cu.edu
+467,Saint Vincent College,Private,www.stvincent.edu
+468,Spelman College,Private,www.spelman.edu
+469,California State University Sacramento,Public,www.csus.edu
+470,Wittenberg University,Private,www.wittenberg.edu
+471,South Dakota State University,Public,www.sdstate.edu
+472,Coe College,Private,www.coe.edu
+473,East Carolina University,Public,www.ecu.edu
+474,California State University Northridge,Public,www.csun.edu
+475,University of Alabama in Huntsville,Public,www.uah.edu
+476,Mercer University,Private,www.mercer.edu
+477,Oklahoma City University,Private,www.okcu.edu
+478,Rider University,Private,www.rider.edu
+479,Loyola University New Orleans,Private,www.loyno.edu
+480,Nova Southeastern University,Private,www.nova.edu
+481,Grand Valley State University,Public,www.gvsu.edu
+482,Florida Atlantic University,Public,www.fau.edu
+483,Northwestern College (IA),Private,www.nwciowa.edu
+484,Pacific University (OR),Private,www.pacificu.edu
+485,University of North Carolina Charlotte,Public,www.uncc.edu
+486,Tennessee Technological University,Public,www.tntech.edu
+487,Ball State University,Public,cms.bsu.edu
+488,Elmhurst College,Private,https://www.elmhurst.edu
+489,Touro College,Private,www.touro.edu
+490,CUNY John Jay College of Criminal Justice,Public,www.jjay.cuny.edu
+491,CUNY Lehman College,Public,www.lehman.cuny.edu
+492,California State University East Bay,Public,www.csueastbay.edu
+493,University of South Dakota,Public,www.usd.edu
+494,University of North Carolina Asheville,Public,www.unca.edu
+495,Ashland University,Private,www.ashland.edu
+496,Simpson College (IA),Private,simpson.edu
+497,University of Missouri Saint Louis,Public,www.umsl.edu
+498,Florida Southern College,Private,https://www.flsouthern.edu
+499,California State University Los Angeles,Public,www.calstatela.edu
+500,California State University San Bernardino,Public,www.csusb.edu
+501,University of Texas Arlington,Public,www.uta.edu
+502,University of Northwestern St. Paul,Private,www.nwc.edu
+503,Lawrence Technological University,Private,https://www.ltu.edu
+504,Mississippi College,Private,www.mc.edu
+505,University of North Georgia,Public,www.ung.edu
+506,Webster University,Private,www.webster.edu
+507,University of North Texas,Public,www.unt.edu
+508,Texas State University,Public,www.txstate.edu
+509,University of Maine,Public,www.umaine.edu
+510,Central College,Private,www.central.edu
+511,Christian Brothers University,Private,www.cbu.edu/admissions
+512,Manhattanville College,Private,www.mville.edu
+513,Georgia State University,Public,www.gsu.edu
+514,William Jewell College,Private,www.jewell.edu/home
+515,Northern Arizona University,Public,nau.edu
+516,Westminster College (PA),Private,www.westminster.edu
+517,Missouri State University,Public,www.missouristate.edu
+518,University of Nebraska Omaha,Public,www.unomaha.edu
+519,Florida Gulf Coast University,Public,www.fgcu.edu
+520,Meredith College,Private,www.meredith.edu
+521,College of Idaho,Private,www.collegeofidaho.edu
+522,Carroll University,Private,www.carrollu.edu
+523,Old Dominion University,Public,odu.edu
+524,Mount Saint Mary's University (CA),Private,www.msmc.la.edu/index.asp
+525,Andrews University,Private,www.andrews.edu
+526,Lynn University,Private,www.lynn.edu
+527,Baldwin Wallace University,Private,www.bw.edu
+528,Otterbein University,Private,www.otterbein.edu
+529,University of Massachusetts Boston,Public,www.umb.edu
+530,Queens University of Charlotte,Private,www.queens.edu
+531,Minnesota State University Mankato,Public,www.mnsu.edu
+532,Portland State University,Public,www.pdx.edu
+533,Westminster College (MO),Private,www.westminster-mo.edu
+534,University of Northern Colorado,Public,www.unco.edu
+535,Ripon College,Private,www.ripon.edu
+536,Marietta College,Private,www.marietta.edu
+537,Sam Houston State University,Public,shsu.edu
+538,St. Mary's University (TX),Private,https://www.stmarytx.edu
+539,Illinois College,Private,www.ic.edu
+540,Central Washington University,Public,www.cwu.edu
+541,Doane University,Private,www.doane.edu
+542,University of Hartford,Private,www.hartford.edu
+543,Hood College,Private,www.hood.edu
+544,University of Colorado Colorado Springs,Public,www.uccs.edu
+545,St. Catherine University,Private,www.stkate.edu
+546,Fairleigh Dickinson University,Private,view.fdu.edu/default.aspx?id=320
+547,Millersville University,Public,https://www.millersville.edu
+548,University of Nevada Las Vegas,Public,www.unlv.edu
+549,Wisconsin Lutheran College,Private,www.wlc.edu
+550,Randolph College,Private,www.randolphcollege.edu
+551,CUNY College of Staten Island,Public,www.csi.cuny.edu
+552,Vanguard University,Private,www.vanguard.edu
+553,Immaculata University,Private,www.immaculata.edu
+554,Lycoming College,Private,www.lycoming.edu
+555,University of Louisiana Lafayette,Public,www.louisiana.edu
+556,Huntington University,Private,huntington.edu
+557,Hollins University,Private,www.hollins.edu/index.shtml
+558,Benedictine University,Private,www.ben.edu
+559,University of North Carolina Greensboro,Public,www.uncg.edu
+560,King's College (PA),Private,www.kings.edu
+561,Hastings College,Private,www.hastings.edu
+562,Georgia Southern University,Public,www.georgiasouthern.edu
+563,Southern Illinois University Edwardsville,Public,www.siue.edu
+564,Western Michigan University,Public,wmich.edu
+565,Asbury University,Private,www.asbury.edu
+566,Oakland University,Public,www.oakland.edu
+567,University of New Mexico,Public,www.unm.edu
+568,Bloomsburg University of Pennsylvania,Public,www.bloomu.edu
+569,Boise State University,Public,www.boisestate.edu
+570,College of the Atlantic,Private,www.coa.edu/index.htm
+571,University of Texas Rio Grande Valley,Public,www.utrgv.edu
+572,Maryville College,Private,www.maryvillecollege.edu
+573,Oral Roberts University,Private,www.oru.edu
+574,University of Alaska Fairbanks,Public,www.alaska.edu
+575,Randolph-Macon College,Private,www.rmc.edu
+576,Montana Tech of the University of Montana,Public,www.mtech.edu
+577,St. John's College Santa Fe,Private,www.sjca.edu
+578,Indiana University-Purdue University Indianapolis,Public,www.iupui.edu
+579,Hartwick College,Private,www.hartwick.edu
+580,Alfred University,Private,www.alfred.edu
+581,Oklahoma Baptist University,Private,www.okbu.edu
+582,Alma College,Private,www.alma.edu
+583,Saint Cloud State University,Public,www.stcloudstate.edu
+584,Capital University,Private,www.capital.edu
+585,Liberty University,Private,www.liberty.edu
+586,Russell Sage College,Private,www.sage.edu/rsc
+587,Converse College,Private,www.converse.edu
+588,Oglethorpe University,Private,www.oglethorpe.edu
+589,Central Michigan University,Public,www.cmich.edu
+590,University of Wisconsin Milwaukee,Public,www.uwm.edu
+591,Bowling Green State University,Public,www.bgsu.edu
+592,Texas Woman's University,Public,www.twu.edu
+593,University of Mount Union,Private,www.mountunion.edu
+594,Clarke University,Private,www.clarke.edu
+595,Carthage College,Private,www.carthage.edu
+596,Centenary College of Louisiana,Private,www.centenary.edu
+597,Wichita State University,Public,www.wichita.edu
+598,Aurora University,Private,www.aurora.edu
+599,Georgetown College (KY),Private,https://www.georgetowncollege.edu
+600,Western Kentucky University,Public,www.wku.edu
+601,Wayne State University,Public,wayne.edu
+602,Western Colorado University,Public,www.western.edu
+603,Rhode Island College,Public,www.ric.edu
+604,Weber State University,Public,www.weber.edu
+605,Salem College,Private,www.salem.edu
+606,University of Texas El Paso,Public,www.utep.edu
+607,Spring Hill College,Private,www.shc.edu
+608,Sweet Briar College,Private,sbc.edu
+609,University of Toledo,Public,www.utoledo.edu
+610,University of Montana,Public,www.umt.edu
+611,Southeastern Louisiana University,Public,www.selu.edu
+612,University of South Alabama,Public,www.southalabama.edu
+613,Murray State University,Public,www.murraystate.edu
+614,Anderson University (IN),Private,anderson.edu
+615,University of West Florida,Public,uwf.edu
+616,University of New Orleans,Public,www.uno.edu
+617,Indiana University of Pennsylvania,Public,ww.iup.edu
+618,North Greenville University,Private,www.ngu.edu
+619,University of Texas at San Antonio,Public,www.utsa.edu
+620,Millikin University,Private,www.millikin.edu/Pages/default.aspx
+621,Northern Illinois University,Public,www.niu.edu/index.shtml
+622,Cleveland State University,Public,www.csuohio.edu
+623,Humboldt State University,Public,www.humboldt.edu
+624,Monmouth College,Private,www.monmouthcollege.edu
+625,St. Francis College,Private,www.sfc.edu
+626,Elmira College,Private,www.elmira.edu
+627,University of Southern Mississippi,Public,home.usm.edu
+628,Lyon College,Private,www.lyon.edu
+629,Southern Illinois University Carbondale,Public,siu.edu
+630,Kent State University Kent Campus,Public,www.kent.edu
+631,Middle Tennessee State University,Public,www.mtsu.edu
+632,Warren Wilson College,Private,www.warren-wilson.edu/external_index.php
+633,Northern Kentucky University,Public,www.nku.edu
+634,Western Illinois University,Public,www.wiu.edu
+635,University of Alaska Anchorage,Public,www.uaa.alaska.edu
+636,Fort Lewis College,Public,www.fortlewis.edu
+637,Marlboro College,Private,www.marlboro.edu
+638,Wright State University,Public,https://www.wright.edu
+639,Hiram College,Private,www.hiram.edu
+640,University of Memphis,Public,www.mephis.edu
+641,Eastern Kentucky University,Public,www.eku.edu
+642,Fisk University,Private,www.fisk.edu/Home.aspx
+643,Guilford College,Private,www.guilford.edu
+644,Carson-Newman University,Private,www.cn.edu
+645,Morehouse College,Private,https://www.morehouse.edu
+646,New Mexico State University,Public,www.nmsu.edu
+647,Indiana State University,Public,www.indstate.edu
+648,Emory & Henry College,Private,www.ehc.edu
+649,Wells College,Private,www.wells.edu
+650,Catawba College,Private,www.catawba.edu
