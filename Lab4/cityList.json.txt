@@ -1,0 +1,3 @@
+Since the JSON file is greater than 25MB github won't let me upload it.
+Here is a link to a file sharing service where I have the .json if you're that invested in my Lab 4.
+https://ufile.io/vk4qyppg
