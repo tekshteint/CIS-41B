@@ -1,1 +1,0 @@
-City:Berkeley Description: clear sky Temperature in Degrees Fahrenheit: 61.14
