@@ -1,1 +1,0 @@
-City:Santa Barbara Description: clear sky Temperature in Degrees Fahrenheit: 76.5
